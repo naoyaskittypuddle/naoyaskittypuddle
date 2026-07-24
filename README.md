@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/naoyaskittypuddle/naoyaskittypuddle">
-    <img src="" alt="Banner" width="50%">
+    <img src="68727d2ee8e88b121200b276144badc6.gif" alt="Banner" width="50%">
   </a>
 </p>
 
