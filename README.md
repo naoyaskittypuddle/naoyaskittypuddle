@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/naoyaskittypuddle/naoyaskittypuddle">
-    <img src="https://tenor.com/view/jjk-jujutsu-kaisen-naoya-naoya-zenin-zenin-gif-16452382823258311458" alt="Banner" width="50%">
+    <img src="" alt="Banner" width="50%">
   </a>
 </p>
 
-<h1 align="center">helloes, im Esli</h1>
+<h1 align="center">helloes, im Esli. call me Es or Esli! </h1>
 <p align="center">
   </a>
 </p>
