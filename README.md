@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/naoyaskittypuddle/naoyaskittypuddle">
-    <img src="https://share.google/gzHIBJLRUjUjLiY9X" alt="Banner" width="50%">
+    <img src="https://tenor.com/view/jjk-jujutsu-kaisen-naoya-naoya-zenin-zenin-gif-16452382823258311458" alt="Banner" width="50%">
   </a>
 </p>
 
