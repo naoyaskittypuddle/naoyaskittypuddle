@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/naoyaskittypuddle/naoyaskittypuddle">
+    <img src="" alt="Banner" width="50%">
+  </a>
+</p>
 
-<!--
-**naoyaskittypuddle/naoyaskittypuddle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">helloes, im Esli</h1>
+<p align="center">
+  </a>
+</p>
+<h3 align="center">welcome to my profile !!  :></h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">im a naoya nonsharing yumeshipper! i love him a lot ok.. ～☆ <br> I'm a female! i use she/her. i love ff7, RDR, RE, jujutsu kaisen and bluelock</p>
