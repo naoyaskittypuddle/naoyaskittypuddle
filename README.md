@@ -4,10 +4,10 @@
   </a>
 </p>
 
-<h1 align="center">helloes, im Esli. call me Es or Esli! </h1>
+<h1 align="center">helloo Im Esli or Es !!! </h1>
 <p align="center">
   </a>
 </p>
-<h3 align="center">welcome to my profile !!  :></h3>
+<h3 align="center">welcome to the best profile ever!!  :></h3>
 
-<p align="center">im a naoya nonsharing yumeshipper! i love him a lot ok.. ～☆ <br> I'm a female! i use she/her. i love ff7, RDR, RE, jujutsu kaisen and bluelock</p>
+<p align="center">I play genshin impact and pony town and Roblox ok ok ～☆ <br> I'm a female but I use she/her/ask! i love ff7, RDR, RE, jujutsu kaisen, blue lock and genshin impact</p>
